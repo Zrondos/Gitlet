@@ -1,0 +1,7 @@
+#-------------------- test42-other-err.in --------------------
+>
+Please enter a command.
+<<<
+> status
+Not in an initialized Gitlet directory.
+<<<
